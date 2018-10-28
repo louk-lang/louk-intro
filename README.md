@@ -1,8 +1,8 @@
-<img alt="Louk Intro preview" src="preview.png" width="800px" />
-
 # Louk Intro
 
-A starter template for Louk
+A starter template for [Louk](http://louk-lang.org)
+
+<img alt="Louk Intro preview" src="preview.png" width="700px" />
 
 ## Instructions
 
