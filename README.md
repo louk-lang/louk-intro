@@ -7,6 +7,9 @@ A starter template for Louk
 ## Instructions
 
 1. Clone this repository
+```
+git clone git@github.com:louk-lang/louk-intro.git
+```
 2. Install npm modules
 ```
 npm install
