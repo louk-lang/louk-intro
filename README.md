@@ -1,3 +1,5 @@
+<img alt="Louk Intro preview" src="preview.png" width="800px" />
+
 # Louk Intro
 
 A starter template for Louk
