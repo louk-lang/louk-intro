@@ -2,7 +2,7 @@
 
 A starter template for [Louk](http://louk-lang.org)
 
-<img alt="Louk Intro preview" src="preview.png" width="700px" />
+<img alt="Louk Intro preview" src="preview.png" height="500px" />
 
 ## Instructions
 
