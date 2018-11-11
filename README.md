@@ -10,7 +10,7 @@ A starter template for [Louk](http://louk-lang.org)
 
 1. Clone this repository
 ```
-git clone git@github.com:louk-lang/louk-intro.git
+git clone https://github.com/louk-lang/louk-intro.git
 ```
 2. Install npm modules
 ```
