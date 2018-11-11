@@ -13,7 +13,6 @@ template,
                 "rel noopener
                 "target _blank
 
-
 script,
 
     export default {
@@ -29,6 +28,7 @@ script,
                         links: [
                             { url: "https://www.npmjs.com/package/louk", display: "Language" },
                             { url: "https://www.npmjs.com/package/louk-loader", display: "Loader" },
+                            { url: "https://github.com/louk-lang/louk-grammar", display: "Editors" },
                             { url: "https://github.com/louk-lang/louk", display: "Contribute" }
                         ]
                     },
