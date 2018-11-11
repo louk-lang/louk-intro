@@ -2,6 +2,8 @@
 
 A starter template for [Louk](http://louk-lang.org)
 
+[![Build Status](https://img.shields.io/travis/louk-lang/louk-intro.svg?style=flat-square)](https://travis-ci.org/louk-lang/louk-intro)
+
 <img alt="Louk Intro preview" src="preview.png" style="width:100%;max-width:600px;" />
 
 ## Instructions
