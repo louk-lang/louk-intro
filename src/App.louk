@@ -21,6 +21,7 @@ script,
 
 style,
 
+    /* The style section is set to use Stylus in vue.config.js */
     light = #f4f9f9
     dark = #343535
 
