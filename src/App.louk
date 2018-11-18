@@ -26,6 +26,7 @@ style,
 
     body
         background-color #343535
+        padding 0px 20px 80px 20px
 
     #app
         font-family Poppins, Helvetica, sans-serif
