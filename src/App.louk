@@ -3,10 +3,10 @@ template,
     div
     #app
         img
-        "src ./assets/logo.png
+        'src ./assets/logo.png
         #logo
         Intro
-        "tagline Welcome to your Vue App, written in Louk.
+        'tagline Welcome to your Vue App, written in Louk.
 
 script,
 
