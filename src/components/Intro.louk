@@ -10,8 +10,8 @@ template,
             -for link in section.links
                 a link.display
                 :href link.url
-                "rel noopener
-                "target _blank
+                'rel noopener
+                'target _blank
 
 script,
 
