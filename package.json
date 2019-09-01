@@ -1,6 +1,6 @@
 {
   "name": "louk-intro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -10,11 +10,11 @@
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.8.0",
-    "ajv": "^6.10.0",
-    "louk": "^2.0.8",
+    "@vue/cli-service": "^3.11.0",
+    "ajv": "^6.10.2",
+    "louk": "^2.0.11",
     "louk-loader": "^1.1.0",
-    "stylus": "^0.54.5",
+    "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.10"
   },
