@@ -10,9 +10,9 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-service": "^4.1.1",
+    "@vue/cli-service": "^4.4.6",
     "ajv": "^6.10.2",
-    "louk": "^2.0.12",
+    "louk": "^2.0.14",
     "louk-loader": "^1.1.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
