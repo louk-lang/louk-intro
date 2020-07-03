@@ -20,14 +20,5 @@ steps:
   - task: Npm@1
     inputs:
       command: custom
-      customCommand: run serve
-    displayName: Serve site
-
-  - script: ^C
-    displayName: Exit server
-
-  - task: Npm@1
-    inputs:
-      command: custom
       customCommand: run build
     displayName: Build
